@@ -1,7 +1,13 @@
- # Проект "Интернет-магазин"
+# Project Name
 
-## Описание
-Это проект интернет-магазина, который демонстрирует работу с HTML, CSS, JavaScript, а также интеграцию с API для получения данных (например, курсы валют).
+This project is a simple e-commerce website with a catalog, cart, and contact page.
 
-## Установка
-1. Склонируйте репозиторий:
+## Features
+
+- Product catalog
+- Cart functionality
+- Contact form
+
+## Installation
+
+To run this project, clone the repository and open `index.html` in your browser.

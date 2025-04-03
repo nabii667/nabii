@@ -1,1 +1,38 @@
- 
+ /* dark-theme.css */
+
+/* Фон и текст */
+body {
+    background-color: #1b2a1f;
+    color: #e3f4e0;
+}
+
+/* Навигация */
+nav ul {
+    background-color: #2a3b2a;
+}
+
+/* Заголовок */
+header {
+    background-color: #2a3b2a;
+}
+
+/* Контейнер каталога */
+.catalog {
+    background-color: #3b4f3b;
+}
+
+/* Карточка товара */
+.product {
+    background-color: #3b4f3b;
+}
+
+/* Кнопки */
+button {
+    background-color: #8faa8f;
+}
+
+/* Форма */
+form {
+    background-color: #3b4f3b;
+}
+

@@ -1,3 +1,5 @@
-document.querySelector('.add-to-cart').addEventListener('click', function() {
-    alert('Товар добавлен в корзину!');
-  });
+// script.js
+document.addEventListener('DOMContentLoaded', function() {
+  // Код для инициализации страниц
+});
+
